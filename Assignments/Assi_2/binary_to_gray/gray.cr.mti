@@ -1,0 +1,15 @@
+D:/NTI_FPGA/NTI_FPGA/Assignments/Assi_2/binary_to_gray/btg_tb.v {1 {vlog -work work D:/NTI_FPGA/NTI_FPGA/Assignments/Assi_2/binary_to_gray/btg_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_bin_to_gray
+
+Top level modules:
+	tb_bin_to_gray
+
+} {} {}} D:/NTI_FPGA/NTI_FPGA/Assignments/Assi_2/binary_to_gray/binarytogary.v {1 {vlog -work work D:/NTI_FPGA/NTI_FPGA/Assignments/Assi_2/binary_to_gray/binarytogary.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module bin_to_gray
+
+Top level modules:
+	bin_to_gray
+
+} {} {}}
