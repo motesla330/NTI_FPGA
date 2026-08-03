@@ -32,3 +32,7 @@ all about digital electronics
 * FSQ
 Each section has its own **Tutoials** ,**Eexpamles** ,**Question** ,**Tools** ,**Books**, **Interveiw Questions** and more....
 [ASIC WORLD]( https://www.asic-world.com/ "ASIC WORLD")
+
+## chipverify.com
+**Learn Chip Design & Verification** is a free online platform offering tutorials on Digital Design, Verilog, SystemVerilog, UVM, RTL Synthesis, and Verification. It also includes a browser-based lab for simulating and experimenting with HDL designs.
+[chipverify.com]( https://chipverify.com// "chipverify.com")
