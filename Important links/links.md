@@ -35,4 +35,9 @@ Each section has its own **Tutoials** ,**Eexpamles** ,**Question** ,**Tools** ,*
 
 ## chipverify.com
 **Learn Chip Design & Verification** is a free online platform offering tutorials on Digital Design, Verilog, SystemVerilog, UVM, RTL Synthesis, and Verification. It also includes a browser-based lab for simulating and experimenting with HDL designs.
-[chipverify.com]( https://chipverify.com// "chipverify.com")
+[chipverify.com]( https://chipverify.com/ "chipverify.com")
+
+## EDA Playground
+
+**EDA Playground** is a browser-based environment for developing and simulating HDL designs. It provides access to multiple simulators, enabling users to quickly test and verify Verilog, SystemVerilog, and VHDL code online.
+[EDA Playground]( https://www.edaplayground.com/ "EDA Playground.com")
